@@ -1,5 +1,5 @@
 const doh = 'https://dns.alidns.com/dns-query'
-const dohjson = 'https://dns.google/dns-query'
+const dohjson = 'https://dns.google/resolve?'
 const contype = 'application/dns-message'
 const jstontype = 'application/dns-json'
 
