@@ -1,6 +1,5 @@
 const doh = 'https://dns.alidns.com/dns-query'
-const doh = 'https://dns.google/dns-query'
-const dohjson = 'https://cloudflare-dns.com/dns-query'
+const dohjson = 'https://dns.google/dns-query'
 const contype = 'application/dns-message'
 const jstontype = 'application/dns-json'
 
